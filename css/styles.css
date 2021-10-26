@@ -1,0 +1,49 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+table,
+form {
+  width: 500px;
+  margin: 20px auto;
+}
+table {
+  border-collapse: collapse;
+}
+table td,
+table th {
+  border: solid 1px black;
+}
+label,
+input,
+select {
+  display: block;
+  margin: 10px 0;
+  font-size: 20px;
+}
+button {
+  display: block;
+}
+
+td, {
+  text-align: center;
+}
+
+.wrapper {
+  display: block;
+  margin: auto;
+}
+
+.deleteBtn {
+  display: block;
+  margin: auto;
+  background-color: rgb(255, 143, 143);
+}
+
+.addBookBtn {
+  background-color: rgb(134, 235, 134);
+}
